@@ -3,5 +3,5 @@
 I'm Ethan Zientek, I'm a first year software engineering student from Williamsville. I attented Williamsville South High School, I was the salutorian in my class. I'm not a big sports guy or a big hobby man. I mainly just hang out with my friends, play video games, and watch YouTube. My favorite colors are green and pink and I'm just happy to be here. 
 
 
-![1-Salmon-Nigiri-1-1-of-1.jpg]
+![https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.manusmenu.com%2Fsalmon-nigiri&psig=AOvVaw3GAw4OkV2xrpmqkW5qIqpw&ust=1601588318880000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiSl87rkewCFQAAAAAdAAAAABAD]
 Software Engineering Website: [http://www.se.rit.edu/~swen-101/00/index.html]
