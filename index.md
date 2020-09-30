@@ -4,7 +4,7 @@ I'm Ethan Zientek, I'm a first year software engineering student from Williamsvi
 
 
 <img src="1-Salmon-Nigiri-1-1-of-1.jpg" alt="hi" class="inline"/>
-Software Engineering Website: [http://www.se.rit.edu/~swen-101/00/index.html]
+[Software Engineering Website](http://www.se.rit.edu/~swen-101/00/index.html)
 
 # What I'd Like to Learn
 
